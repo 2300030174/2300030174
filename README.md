@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Duggempudi ThanujReddy 
+I am studying B.Tech computer science at KL University through honors through experiential learning. 
+I have worked on projects in C, java, HTML ,CSS, React and am working continously on honing my skill both technically and practically.
 <!--
 **2300030174/2300030174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
